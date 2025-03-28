@@ -3,9 +3,10 @@
   "type": "module",
   "scripts": {
     "start": "npx @11ty/eleventy --serve --watch",
-    "build": "rm -rf ./_site && npx @11ty/eleventy"
+    "build": "rimraf ./_site && npx @11ty/eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.0.0"
+    "@11ty/eleventy": "3.0.0",
+    "rimraf": "^6.0.1"
   }
 }
