@@ -1,4 +1,8 @@
-# Fyrste blogpost
+---
+title: Fyrste blogpost
+date: 2025-03-28
+author: Tore
+---
 
 ## Kvifor er eg i denne workshopen?
 

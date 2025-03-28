@@ -1,4 +1,8 @@
-# Automatisera eit eliteserien fantasy-lag
+---
+title: Robotlag i Eliteserien Fantasy
+date: 2025-03-28
+author: Tore
+---
 
 Fantasy har eit greit API, så burde vera mulig å automatisera heile prosessen.
 
